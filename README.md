@@ -20,6 +20,6 @@ Use mouse to aim.
 Objects
 ---------
 Power-ups:
-1.
-2.
-3.
+1. Orange vial - increases attack speed of the character
+2. Blue vial - increases score by 10,000 points
+3. Green vial - increases score by 1,000 points
