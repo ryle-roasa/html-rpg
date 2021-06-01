@@ -1,2 +1,2 @@
 # html-rpg
-An RPG game using HTML canvas and JavaScript
+A beginner RPG game using mostly JavaScript and HTML canvas. 
