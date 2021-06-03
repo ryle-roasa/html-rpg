@@ -1,5 +1,5 @@
 # html-rpg
-A beginner RPG game created using mostly JavaScript and HTML canvas.
+A beginner RPG game created using mostly JavaScript and HTML canvas. Map and entity collision on next update
 ---------
 Controls
 ---------
